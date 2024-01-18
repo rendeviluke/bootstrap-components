@@ -1,2 +1,2 @@
 Appbrewery project with BS5 components
-<a href="https://www.rendeviluke.github.io/bootstrap-components">Site</a>
+<a href="https://rendeviluke.github.io/bootstrap-components" target="_blank">Site</a>
